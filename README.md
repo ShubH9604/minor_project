@@ -54,9 +54,3 @@ minor/
 ## Contributing
 Feel free to contribute by opening issues or submitting pull requests.
 
-## License
-This project is licensed under the **MIT License**.
-
-## Contact
-For queries or contributions, contact: **shubh.kalaria@gmail.com**
-
