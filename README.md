@@ -25,16 +25,11 @@ pip install -r requirements.txt
 You need a **Google Maps API Key** to fetch real-time traffic data. Add your API key in your project’s environment variables or within the code.
 
 ## Usage
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/minor_project/minor.git
-   cd traffic-analysis
-   ```
-2. Install dependencies:
+1. Install dependencies:
    ```sh
    pip install -r requirements.txt
    ```
-3. Run the application:
+2. Run the application:
    ```sh
    streamlit run app.py
    ```
